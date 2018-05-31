@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RaccoonMsgr.Views.MasterMenu"
+             Icon="hamburguer_icon.png" 
+             xmlns:render="clr-namespace:RaccoonMsgr.Renderers"
+             xmlns:badge="clr-namespace:BadgeView.Shared;assembly=BadgeView.Shared"
+             xmlns:controls="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin.Abstractions"
+             Title="Master">
+    <Grid VerticalOptions="FillAndExpand">
+        <Image Source="menu_bg.png">
+            <Image.Aspect>
+                <OnPlatform x:TypeArguments="Aspect"
+                            Android="AspectFill"
+                            iOS="AspectFill">  
+                </OnPlatform>
+            </Image.Aspect>
+        </Image>
+        <Grid BackgroundColor="Transparent">
+            <StackLayout Orientation="Vertical">
+                  <StackLayout Spacing="20" VerticalOptions="StartAndExpand">
+                    <StackLayout Orientation="Horizontal" Margin="10,30,0,0">
+                        <controls:CircleImage Source="user_default.png" HeightRequest="70" WidthRequest="70" BorderColor="White" BorderThickness="2"></controls:CircleImage>
+                        <Label Margin="10,0,0,0" Text="New user" FontAttributes="Bold" TextColor="White" FontSize="20" VerticalOptions="Center" HorizontalOptions="StartAndExpand"></Label>
+                    </StackLayout>
+                    <BoxView HeightRequest="0.8" BackgroundColor="White" HorizontalOptions="Fill"></BoxView>
+                    <ListView x:Name="MenuItems" BackgroundColor="Transparent" Margin="0,0,0,0"
+                              SeparatorVisibility="None"
+                              HasUnevenRows="true"
+                              ItemsSource="{Binding MenuItems}">
+
+                      <ListView.ItemTemplate>
+                        <DataTemplate>
+                          <render:ExtendedViewCell SelectedBackgroundColor="Transparent">
+                            <StackLayout Padding="15,10" HorizontalOptions="FillAndExpand" Orientation="Horizontal">
+                              <Image HeightRequest="25" WidthRequest="25" Source="{Binding Icon}"></Image>
+                              <Label VerticalOptions="FillAndExpand" BackgroundColor="Transparent"
+                                    VerticalTextAlignment="Center"
+                                    Text="{Binding Title}" TextColor="White"
+                                    FontSize="20"/>
+                               <badge:BadgeView IsVisible="{Binding IsBadgeVisible}" Text="{Binding Updates}" BadgeColor="{Binding BadgeColor}" VerticalOptions="Center" HorizontalOptions="End" />
+                            </StackLayout>
+                          </render:ExtendedViewCell>
+                        </DataTemplate>
+                      </ListView.ItemTemplate>
+                    </ListView>
+                    <StackLayout VerticalOptions="End" Padding="15,10">
+                        <Label HorizontalTextAlignment="Start" Text="Logout" TextColor="White" FontSize="20"></Label> 
+                    </StackLayout>
+                </StackLayout>
+              </StackLayout>
+        </Grid>
+    </Grid>
+</ContentPage>

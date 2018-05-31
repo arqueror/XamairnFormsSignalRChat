@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:RaccoonMsgr.Controls.CustomCells"
+             xmlns:custControls="clr-namespace:RaccoonMsgr.Controls"
+             xmlns:render="clr-namespace:RaccoonMsgr.Renderers"
+             xmlns:controls="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin.Abstractions"
+             x:Class="RaccoonMsgr.Views.Messages">
+     <ContentPage.Resources>
+        <ResourceDictionary>
+            <local:MessageDataTemplateSelector x:Key="MessageTemplateSelector"/>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <Grid>
+        <Grid>
+            <OnPlatform x:TypeArguments="View">
+                <OnPlatform.Android>
+            
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"> </RowDefinition>
+                            <RowDefinition Height="50"> </RowDefinition>
+                        </Grid.RowDefinitions>
+                        <ScrollView Grid.Row="0" VerticalOptions="FillAndExpand">
+                             <Grid RowSpacing="0" ColumnSpacing="0" VerticalOptions="FillAndExpand">
+                                <ListView VerticalOptions="FillAndExpand"
+                                    x:Name="MessagesListView" HorizontalOptions="FillAndExpand"
+                                    ItemTemplate="{StaticResource MessageTemplateSelector}" 
+                                    ItemsSource="{Binding MessagesList}" 
+                                    HasUnevenRows="True" SeparatorVisibility="None" IsEnabled="True"/>
+                              </Grid>
+                       </ScrollView>
+                          <StackLayout Grid.Row="1" Orientation="Horizontal" BackgroundColor="White">
+                            <Entry 
+                                HorizontalOptions="FillAndExpand" 
+                                Placeholder="Message"  
+                                Text="{Binding OutMessage}" Keyboard="Chat" Margin="4"/>
+
+                                <Image Source="sendButton.png" WidthRequest="35" HeightRequest="35" Opacity="0.7" Margin="4">
+                                    <Image.GestureRecognizers>
+                                        <TapGestureRecognizer
+                                                Command="{Binding SendCommand}" />
+                                    </Image.GestureRecognizers>
+                                </Image>
+                                
+                        </StackLayout>
+                    </Grid>
+                </OnPlatform.Android>
+
+                <OnPlatform.iOS>
+                       <ScrollView VerticalOptions="FillAndExpand">
+                                <Grid>
+
+                                      <Grid.RowDefinitions>
+                                        <RowDefinition Height="92*"> </RowDefinition>
+                                        <RowDefinition Height="8*"> </RowDefinition>
+                                    </Grid.RowDefinitions>
+                               
+                                 <Grid RowSpacing="0" ColumnSpacing="0" VerticalOptions="FillAndExpand">
+                                    <ListView VerticalOptions="FillAndExpand"
+                                        x:Name="MessagesListViewiOS" HorizontalOptions="FillAndExpand"
+                                        ItemTemplate="{StaticResource MessageTemplateSelector}" 
+                                        ItemsSource="{Binding MessagesList}" 
+                                        HasUnevenRows="True" SeparatorVisibility="None" IsEnabled="True"/>
+                                  </Grid>
+                                  <StackLayout Grid.Row="1" Orientation="Horizontal" BackgroundColor="White">
+                                    <Entry 
+                                        HorizontalOptions="FillAndExpand" 
+                                        Placeholder="Message"  
+                                        Text="{Binding OutMessage}" Keyboard="Chat" Margin="4"/>
+
+                                        <Image Source="sendButton.png" WidthRequest="35" HeightRequest="35" Opacity="0.7" Margin="4">
+                                            <Image.GestureRecognizers>
+                                                <TapGestureRecognizer
+                                                        Command="{Binding SendCommand}" />
+                                            </Image.GestureRecognizers>
+                                        </Image>
+                                        
+                                </StackLayout>
+                               </Grid>
+                           </ScrollView>
+                    
+                </OnPlatform.iOS>
+            </OnPlatform>
+            <!--<StackLayout VerticalOptions="Start" Padding="10,10,20,20">           
+                       <controls:CircleImage HorizontalOptions="End"   BorderColor="Transparent" Source="user_default.png" HeightRequest="60" WidthRequest="60" BorderThickness="2"></controls:CircleImage>                
+            </StackLayout>-->
+        </Grid>
+        <custControls:LoadingOverlay x:Name="loadingOverlay" IsVisible="{Binding IsBusy}" Text="{Binding OverlayText,Mode=TwoWay}"></custControls:LoadingOverlay>
+    </Grid>
+
+   
+</ContentPage>

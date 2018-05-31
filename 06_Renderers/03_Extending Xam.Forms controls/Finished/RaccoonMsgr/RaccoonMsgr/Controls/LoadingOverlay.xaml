@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:forms="clr-namespace:Lottie.Forms;assembly=Lottie.Forms"
+             x:Name="control"
+             x:Class="RaccoonMsgr.Controls.LoadingOverlay">
+    <Grid BackgroundColor="#323031" Opacity="0.98">
+      <Grid>
+
+              <forms:AnimationView Margin="0,-80,0,0" Opacity="1"
+                x:Name="animationView"
+                Animation="inattentive.json"
+                AutoPlay="True" Loop="true"
+                VerticalOptions="FillAndExpand"
+                HorizontalOptions="FillAndExpand" />
+               <Label x:Name="overlayText" 
+                      TextColor="{Binding Source={x:Reference control}, Path=TextColor}" 
+                      Text="{Binding Source={x:Reference control}, Path=Text}"  
+                      HorizontalTextAlignment="Center" 
+                      FontSize="15" FontAttributes="Bold" 
+                      Margin="0,360,0,0"></Label>
+            <!--               <Label x:Name="overlayText"  HorizontalTextAlignment="Center" FontSize="15" FontAttributes="Bold" Margin="0,360,0,0"></Label> -->
+      </Grid>
+    </Grid>
+</ContentView>

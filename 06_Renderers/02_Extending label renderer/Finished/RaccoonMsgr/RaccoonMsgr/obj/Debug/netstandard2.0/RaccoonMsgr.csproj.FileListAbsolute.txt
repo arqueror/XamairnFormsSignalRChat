@@ -1,0 +1,137 @@
+D:/Documents/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.deps.json
+D:/Documents/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.dll
+D:/Documents/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.pdb
+D:/Documents/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.csproj.CoreCompileInputs.cache
+D:/Documents/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.App.xaml.g.cs
+D:/Documents/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MainPage.xaml.g.cs
+D:/Documents/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MasterPage.MasterMenu.xaml.g.cs
+D:/Documents/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MasterPage.MasterPage.xaml.g.cs
+D:/Documents/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.AssemblyInfoInputs.cache
+D:/Documents/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.AssemblyInfo.cs
+D:/Documents/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.dll
+D:/Documents/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.pdb
+D:/Documents/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.csprojResolveAssemblyReference.cache
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.deps.json
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.dll
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.pdb
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.csprojResolveAssemblyReference.cache
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.csproj.CoreCompileInputs.cache
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.App.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MainPage.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MasterPage.MasterMenu.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MasterPage.MasterPage.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.AssemblyInfoInputs.cache
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.AssemblyInfo.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.dll
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/01_UI/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.pdb
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_Mocks/Started/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.deps.json
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_Mocks/Started/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.dll
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_Mocks/Started/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.pdb
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_Mocks/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.csprojResolveAssemblyReference.cache
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_Mocks/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.csproj.CoreCompileInputs.cache
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_Mocks/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.App.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_Mocks/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.Connected.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_Mocks/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MainPage.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_Mocks/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MasterPage.MasterMenu.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_Mocks/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MasterPage.MasterPage.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_Mocks/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.Messages.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_Mocks/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.AssemblyInfoInputs.cache
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_Mocks/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.AssemblyInfo.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_Mocks/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.dll
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_Mocks/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.pdb
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_Mocks/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Controls.CustomCells.MessageInViewCell.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_Mocks/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Controls.CustomCells.MessageOutViewCell.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_Mocks/Started/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Controls.LoadingOverlay.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_UI/Finished/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.deps.json
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_UI/Finished/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.dll
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_UI/Finished/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.pdb
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_UI/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.csproj.CoreCompileInputs.cache
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_UI/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.App.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_UI/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Controls.CustomCells.MessageInViewCell.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_UI/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Controls.CustomCells.MessageOutViewCell.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_UI/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Controls.LoadingOverlay.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_UI/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.Connected.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_UI/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MainPage.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_UI/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MasterPage.MasterMenu.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_UI/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MasterPage.MasterPage.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_UI/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.Messages.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_UI/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.AssemblyInfoInputs.cache
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_UI/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.AssemblyInfo.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_UI/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.dll
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_UI/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.pdb
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/02_UI/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.csprojResolveAssemblyReference.cache
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/03_Styles/Finished/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.deps.json
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/03_Styles/Finished/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.dll
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/03_Styles/Finished/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.pdb
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/03_Styles/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.csproj.CoreCompileInputs.cache
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/03_Styles/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.App.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/03_Styles/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Controls.CustomCells.MessageInViewCell.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/03_Styles/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Controls.CustomCells.MessageOutViewCell.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/03_Styles/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Controls.LoadingOverlay.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/03_Styles/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.Connected.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/03_Styles/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MainPage.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/03_Styles/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MasterPage.MasterMenu.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/03_Styles/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MasterPage.MasterPage.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/03_Styles/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.Messages.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/03_Styles/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.AssemblyInfoInputs.cache
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/03_Styles/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.AssemblyInfo.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/03_Styles/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.dll
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/03_Styles/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.pdb
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/03_Styles/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.csprojResolveAssemblyReference.cache
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.csproj.CoreCompileInputs.cache
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.App.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Controls.CustomCells.MessageInViewCell.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Controls.CustomCells.MessageOutViewCell.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Controls.LoadingOverlay.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.Connected.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.Login.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MainPage.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MasterPage.MasterMenu.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MasterPage.MasterPage.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.Messages.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.AssemblyInfoInputs.cache
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.AssemblyInfo.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.csprojResolveAssemblyReference.cache
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.deps.json
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.dll
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.pdb
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.dll
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.pdb
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.deps.json
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.dll
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.pdb
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.csprojResolveAssemblyReference.cache
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.csproj.CoreCompileInputs.cache
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.App.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Controls.CustomCells.MessageInViewCell.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Controls.CustomCells.MessageOutViewCell.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Controls.LoadingOverlay.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.Connected.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.Login.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MainPage.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MasterPage.MasterMenu.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MasterPage.MasterPage.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.Messages.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.AssemblyInfoInputs.cache
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.AssemblyInfo.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.dll
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.pdb
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.deps.json
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.dll
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/bin/Debug/netstandard2.0/RaccoonMsgr.pdb
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.csprojResolveAssemblyReference.cache
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.csproj.CoreCompileInputs.cache
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.App.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Controls.CustomCells.MessageInViewCell.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Controls.CustomCells.MessageOutViewCell.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Controls.LoadingOverlay.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.Connected.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.Login.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MainPage.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MasterPage.MasterMenu.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.MasterPage.MasterPage.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.Views.Messages.xaml.g.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.AssemblyInfoInputs.cache
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.AssemblyInfo.cs
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.dll
+/Users/ricardo/Documents/Bitbucket/Teller_ITZ/ITZ_Taller/04_WebSockets( SignalR)/Finished/02. Real Time Messages/02. Real Time Messages/RaccoonMsgr/RaccoonMsgr/obj/Debug/netstandard2.0/RaccoonMsgr.pdb

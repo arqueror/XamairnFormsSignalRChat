@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabbed:PlatformTabbedPage xmlns="http://xamarin.com/schemas/2014/forms" SelectedColor="Black"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             BackgroundColor="#434AF8"
+             xmlns:tabbed="clr-namespace:Messier16.Forms.Controls;assembly=PlatformTabbedPage"
+             xmlns:badge="clr-namespace:BadgeView.Shared;assembly=BadgeView.Shared"
+             xmlns:controls="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin.Abstractions"
+             x:Class="RaccoonMsgr.Views.Connected">
+ <tabbed:PlatformTabbedPage.Children>
+    <ContentPage Title="All" BackgroundColor="#416BA1" Icon="hamburguer_icon.png">
+      <Grid VerticalOptions="FillAndExpand">
+        <Image Source="profile_illustration.png" Opacity="0.20">
+            <Image.Aspect>
+                <OnPlatform x:TypeArguments="Aspect"
+                            Android="AspectFill"
+                            iOS="AspectFill">  
+                </OnPlatform>
+            </Image.Aspect>
+        </Image>
+        <Grid BackgroundColor="Transparent">
+            <StackLayout Orientation="Vertical" VerticalOptions="StartAndExpand">
+                  <StackLayout Spacing="0">
+                    <SearchBar Placeholder="Search.." TextChanged="SearchBar_TextChanged"></SearchBar>
+<!--                    <BoxView HeightRequest="0.8" BackgroundColor="White" HorizontalOptions="Fill"></BoxView>-->
+                    <ListView x:Name="contactsList" BackgroundColor="Transparent" Margin="0,0,0,0"
+                              SeparatorVisibility="None" ItemTapped="Handle_ItemTapped" ItemsSource="{Binding Contacts}"
+                              HasUnevenRows="true">
+
+                      <ListView.ItemTemplate>
+                        <DataTemplate>
+                          <ViewCell>
+                            <StackLayout Padding="15,7" Spacing="0" HorizontalOptions="FillAndExpand" Orientation="Horizontal">
+                                <Grid HorizontalOptions="Start">
+                                    <controls:CircleImage  BorderColor="{Binding BackgroundImageColor}" Source="{Binding Image}" HeightRequest="55" WidthRequest="55" BorderThickness="2"></controls:CircleImage>                
+                                    <badge:BadgeView IsVisible="{Binding HasUnreadMessages}" WidthRequest="20" HeightRequest="20" Text="{Binding UnreadMessages}" BadgeColor="Green" VerticalOptions="EndAndExpand" HorizontalOptions="End" />
+
+                                 </Grid>
+
+                               <Label VerticalOptions="CenterAndExpand" Margin="10,0,0,0" BackgroundColor="Transparent"
+                                    VerticalTextAlignment="Center"
+                                    Text="{Binding Name}" TextColor="White"
+                                    FontSize="20"/>
+
+                            </StackLayout>
+                          </ViewCell>
+                        </DataTemplate>
+                      </ListView.ItemTemplate>
+                    </ListView>
+
+                </StackLayout>
+              </StackLayout>
+              <StackLayout VerticalOptions="End" Padding="10,10,20,20" IsVisible="false">           
+                   <controls:CircleImage HorizontalOptions="End"   BorderColor="Transparent" Source="user_default.png" HeightRequest="60" WidthRequest="60" BorderThickness="2"></controls:CircleImage>                
+              </StackLayout>
+        </Grid>
+    </Grid>
+   </ContentPage>
+    <ContentPage Title="Conversations" Icon="ic_message_white.png" BackgroundColor="#416BA1">
+             <Grid VerticalOptions="FillAndExpand">
+        <Image Source="profile_illustration.png" Opacity="0.20">
+            <Image.Aspect>
+                <OnPlatform x:TypeArguments="Aspect"
+                            Android="AspectFill"
+                            iOS="AspectFill">  
+                </OnPlatform>
+            </Image.Aspect>
+        </Image>
+        <Grid BackgroundColor="Transparent">
+            <StackLayout Orientation="Vertical" VerticalOptions="StartAndExpand">
+                  <StackLayout Spacing="0">
+                    <ListView x:Name="conversationsList" BackgroundColor="Transparent" Margin="0,0,0,0"
+                              SeparatorVisibility="None" ItemsSource="{Binding Conversations}" ItemTapped="Handle_ItemTapped"
+                              HasUnevenRows="true">
+
+                      <ListView.ItemTemplate>
+                        <DataTemplate>
+                          <ViewCell>
+                            <StackLayout Padding="15,7" Spacing="0" HorizontalOptions="FillAndExpand" Orientation="Horizontal">
+                                <Grid HorizontalOptions="Start">
+                                    <controls:CircleImage  BorderColor="{Binding BackgroundImageColor}" Source="{Binding Image}" HeightRequest="60" WidthRequest="60" BorderThickness="2"></controls:CircleImage>                
+                                    <badge:BadgeView IsVisible="{Binding HasUnreadMessages}" WidthRequest="20" HeightRequest="20" Text="{Binding UnreadMessages}" BadgeColor="Green" VerticalOptions="EndAndExpand" HorizontalOptions="End" />
+
+                                 </Grid>
+                                 <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand" Margin="0,10,0,0">
+                                    <StackLayout Orientation="Horizontal" HorizontalOptions="Fill">
+                                           <Label WidthRequest="150" LineBreakMode="TailTruncation" Margin="10,0,0,0" BackgroundColor="Transparent"
+                                                VerticalTextAlignment="Center" HorizontalTextAlignment="Start"
+                                                Text="{Binding Name}" TextColor="White" HorizontalOptions="StartAndExpand"
+                                                FontSize="14"/>
+                                            <Label HorizontalOptions="End" TextColor="White" FontSize="14" Text="{Binding LastMessage.MessageDateTime, StringFormat='{0:hh:mm tt}'}"></Label>
+                                    </StackLayout>
+                                    <StackLayout HorizontalOptions="Fill">
+                                           <Label TextColor="White" WidthRequest="50" FontSize="11" Margin="10,0,0,0" Text="{Binding LastMessage.Text}" LineBreakMode="TailTruncation"></Label>               
+                                    </StackLayout>
+
+                                </StackLayout>
+                                                
+                            </StackLayout>
+                          </ViewCell>
+                        </DataTemplate>
+                      </ListView.ItemTemplate>
+                    </ListView>
+
+                </StackLayout>
+              </StackLayout>
+              <!--<StackLayout VerticalOptions="End" Padding="10,10,20,20">           
+                   <controls:CircleImage HorizontalOptions="End"   BorderColor="Transparent" Source="user_default.png" HeightRequest="60" WidthRequest="60" BorderThickness="50"></controls:CircleImage>                
+              </StackLayout>-->
+        </Grid>
+    </Grid>
+     </ContentPage>
+</tabbed:PlatformTabbedPage.Children>
+</tabbed:PlatformTabbedPage>

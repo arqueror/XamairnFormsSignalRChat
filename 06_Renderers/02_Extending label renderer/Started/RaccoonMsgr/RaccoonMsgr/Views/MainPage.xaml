@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:RaccoonMsgr"
+             xmlns:forms="clr-namespace:Lottie.Forms;assembly=Lottie.Forms"
+             x:Class="RaccoonMsgr.Views.MainPage">
+   
+	  <Grid>
+        <Label HorizontalTextAlignment="Center" FontSize="15" FontAttributes="Bold" Text="No New Notifications"></Label>
+      </Grid>
+
+</ContentPage>

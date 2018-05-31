@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:RaccoonMsgr"
+             xmlns:forms="clr-namespace:Lottie.Forms;assembly=Lottie.Forms"
+             x:Class="RaccoonMsgr.Views.MainPage">
+   
+	  <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50*"></RowDefinition>
+            <RowDefinition Height="50*"></RowDefinition>
+        </Grid.RowDefinitions>
+          <forms:AnimationView Grid.Row="0" Margin="0,0,0,0" Opacity="1"
+                x:Name="animationView"
+                Animation="noNotifications.json"
+                AutoPlay="True" Loop="true"
+                VerticalOptions="FillAndExpand"
+                HorizontalOptions="FillAndExpand" />
+            <Label Grid.Row="1" VerticalOptions="Start" HorizontalTextAlignment="Center" FontSize="15" FontAttributes="Bold" Text="No New Notifications"></Label>
+      </Grid>
+
+</ContentPage>
